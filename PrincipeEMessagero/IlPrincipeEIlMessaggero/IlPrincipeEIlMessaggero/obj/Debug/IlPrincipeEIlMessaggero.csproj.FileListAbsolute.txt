@@ -1,0 +1,14 @@
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.csproj.AssemblyReference.cache
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\bin\Debug\IlPrincipeEIlMessaggero.exe.config
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\bin\Debug\IlPrincipeEIlMessaggero.exe
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\bin\Debug\IlPrincipeEIlMessaggero.pdb
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.Form1.resources
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.Properties.Resources.resources
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.csproj.GenerateResource.cache
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.csproj.CopyComplete
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.exe
+C:\Users\Matteo\Desktop\C#\PrincipeEMessagero\IlPrincipeEIlMessaggero\IlPrincipeEIlMessaggero\obj\Debug\IlPrincipeEIlMessaggero.pdb
